@@ -1,0 +1,6 @@
+data/si.pukmajster.BackgroundCheck.desktop.in
+data/si.pukmajster.BackgroundCheck.metainfo.xml.in
+data/si.pukmajster.BackgroundCheck.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

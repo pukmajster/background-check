@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=background-check
+Exec=background-check
+Icon=si.pukmajster.BackgroundCheck
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
